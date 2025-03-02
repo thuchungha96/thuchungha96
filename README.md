@@ -182,4 +182,3 @@ My goal is to continuously **learn new technologies**, refine my skills in **mic
 - **Reading** about technology and software development.  
 - **Solving algorithmic challenges** on **LeetCode** and **Codeforces**.  
 - Attending **workshops and online courses** on software development and emerging technologies.  
-Đang hiển thị 8980256367353890692.
